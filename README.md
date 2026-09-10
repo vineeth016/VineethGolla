@@ -1,40 +1,81 @@
-**Vineeth Golla**  
-Software Engineer | Backend and Distributed Systems
+<div align="center">
 
-I build backend systems that handle real traffic, data, retries, and failures without becoming difficult to maintain.
+<sub>JAVA · DISTRIBUTED SYSTEMS · CLOUD</sub>
 
-Most of my work is in **Java and Spring Boot**, with Kafka and Flink for streaming, Redis and SQL databases for data, Solr for search, and AWS and Kubernetes for running services in production.
+# Hey, I’m Vinny. ✦
 
-**What I work on**
+### Thoughtful systems. A curious mind.
 
-- Backend APIs and services with Java, Spring Boot, Spring WebFlux, REST, and gRPC
-- Event driven systems with Kafka, Kafka Streams, Flink, retries, idempotency, DLQs, and backpressure
-- Search and data flows with Solr, Redis, PostgreSQL, and MySQL
-- Cloud delivery with AWS, Docker, Kubernetes, Helm, and CI/CD
-- System design, concurrency, reliability, and performance tuning
+I’m **Vineeth Golla**, a software engineer who enjoys making complex backend problems feel simple.
 
-**Selected repositories**
+[Portfolio ↗](https://portfolio-amber-xi-42.vercel.app) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/vineeth-golla) &nbsp; · &nbsp; [My repositories ↗](https://github.com/vineeth016?tab=repositories)
 
-[Payment Service with Stripe](https://github.com/vineeth016/Payment-Service-Stripe-Integration-)  
-Spring Boot payment service with payment creation APIs, Stripe integration, webhook handling, and external API communication.
+</div>
 
-[User Authentication Service](https://github.com/vineeth016/User-Authentication-Service)  
-Authentication backend with registration and login flows, JWT, OAuth2, Spring Security, and MySQL persistence.
+---
 
-[Service Discovery](https://github.com/vineeth016/ServiceDiscovery)  
-Spring Cloud Eureka service registry for discovering and connecting services in a microservice setup.
+### A little about me
 
-[Parking Lot Management System](https://github.com/vineeth016/Parking-Lot-Management-System)  
-Java low level design project covering object modeling, spot allocation, ticketing, and pricing logic.
+Most of my work lives behind the screen: **Java services, distributed systems, search, streaming, and cloud infrastructure.** I care about clear service boundaries, predictable data flow, and software that is easy for the next engineer to understand.
 
-**How I think about backend work**
+The details I enjoy? Making retries safe. Keeping slow dependencies contained. Reusing work instead of repeating it. Understanding what happens when the happy path ends.
 
-Getting a request to work once is the easy part. The interesting part is making it behave correctly when the request is retried, duplicated, slow, partially fails, or has to change six months later. That is the part of engineering I enjoy most.
+### My everyday toolkit
 
-I care a lot about clear ownership, simple service boundaries, predictable data flow, useful logs, and code another engineer can understand without a long explanation.
+| Build | Connect | Run |
+| :--- | :--- | :--- |
+| Java · Spring Boot · WebFlux | REST · gRPC · Kafka · Flink | AWS · Docker · Kubernetes |
+| PostgreSQL · MySQL · Redis | Solr · Kafka Streams | Helm · CI/CD · Observability |
 
-**Core stack**  
-Java · Spring Boot · Spring WebFlux · REST · gRPC · Kafka · Kafka Streams · Flink · Redis · PostgreSQL · MySQL · Solr · AWS · Kubernetes · Docker
+### A few things I’ve built
 
-**Links**  
-[Portfolio](https://portfolio-amber-xi-42.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vineeth-golla)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ↗ Payment Service
+Spring Boot payment APIs, Stripe integration, and webhook handling.
+
+[Explore the code](https://github.com/vineeth016/Payment-Service-Stripe-Integration-)
+
+</td>
+<td width="50%" valign="top">
+
+#### ↗ Authentication Service
+Registration and login flows with Spring Security, JWT, OAuth2, and MySQL.
+
+[Explore the code](https://github.com/vineeth016/User-Authentication-Service)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ↗ Service Discovery
+A Spring Cloud Eureka registry for connecting services in a microservice setup.
+
+[Explore the code](https://github.com/vineeth016/ServiceDiscovery)
+
+</td>
+<td width="50%" valign="top">
+
+#### ↗ Parking Lot System
+Java object modeling, spot allocation, ticketing, and pricing logic.
+
+[Explore the code](https://github.com/vineeth016/Parking-Lot-Management-System)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**Good things start with a hello.**
+
+[Let’s connect ↗](https://www.linkedin.com/in/vineeth-golla)
+
+<sub>Thoughtfully built. Always curious.</sub>
+
+</div>
